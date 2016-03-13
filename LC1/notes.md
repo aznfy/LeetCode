@@ -22,6 +22,7 @@ index = (value * value) >> 28
 ## 3.Problems on Different OJ
 HDU 1280 前m大的数  
 Time 0ms Memory 1460K
+
     #include <stdio.h>
     #include <map>
     #include <string.h>
@@ -58,6 +59,7 @@ Time 0ms Memory 1460K
         }
         return 0;
     }  
+
 hash+最大堆，STL堆  
 http://www.acmsearch.com/article/show/10246  
 http://blog.csdn.net/whyorwhnt/article/details/8741352
