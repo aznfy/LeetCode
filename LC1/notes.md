@@ -1,7 +1,8 @@
 # Key: Hash table  
 
 ## 1. What is Hash Table  
-https://www.youtube.com/watch?v=MfhjkfocRR0  https://zh.wikipedia.org/wiki/%E5%93%88%E5%B8%8C%E8%A1%A8
+https://www.youtube.com/watch?v=MfhjkfocRR0  
+https://zh.wikipedia.org/wiki/%E5%93%88%E5%B8%8C%E8%A1%A8
 
 ## 2.Top-k and Hash Table
 http://blog.csdn.net/v_JULY_v/article/details/6256463  
